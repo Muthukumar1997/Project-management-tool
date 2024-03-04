@@ -1,0 +1,70 @@
+{
+  "registration": [
+    {
+      "id": 1,
+      "firstName": "ak",
+      "email": "ak@gmail.com",
+      "password": "12345"
+    },
+    {
+      "firstname": "Vijay",
+      "lastname": "B",
+      "email": "vijaybalachandar20@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "firstname": "Vijay",
+      "lastname": "B",
+      "email": "vijaybalachandar20@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "firstname": "Vijay",
+      "lastname": "B",
+      "email": "vijaybalachandar20@gmail.com",
+      "password": "Vijay@0611",
+      "id": 4
+    },
+    {
+      "firstName": "MUTHU",
+      "lastName": "KUMAR",
+      "email": "mkmech08@gmail.com",
+      "password": "959766",
+      "id": 5
+    },
+    {
+      "firstName": "MUTHU",
+      "lastName": "B",
+      "email": "muthukumar08011997@gmail.com",
+      "password": "959766",
+      "id": 6
+    },
+    {
+      "firstName": "MUTHU",
+      "lastName": "ddd",
+      "email": "muthukumar08011997@gmail.com",
+      "password": "ddddd",
+      "id": 7
+    },
+    {
+      "firstName": "MUTHU",
+      "lastName": "KUMAR",
+      "email": "mkmech08@gmail.com",
+      "password": "959766",
+      "id": 8
+    }
+  ],
+  "expense": [
+    {
+      "expenseTitle": "Aneco",
+      "expenseNotes": "Web application ",
+      "expenseCategory": "",
+      "expenseAmount": "",
+      "paidBy": "",
+      "expenseDate": "",
+      "id": 1
+    }
+  ]
+}
