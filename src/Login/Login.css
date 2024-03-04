@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.logininput{
+        width: 90% !important;
+    }
+.loginlabel{
+    padding-left: 60px;
+    white-space: nowrap;
+}
+.logincard{
+    width: 500px;
+    height: 500px;
+    box-shadow: 5px 5px 5px 5px rgb(231, 104, 104);
+
+}
+
+.loginrow{
+    height: 100vh;
+}
+.loginbtn{
+    margin-left: 40px;
+}
+.logintext{
+    margin-top: 80px;
+}

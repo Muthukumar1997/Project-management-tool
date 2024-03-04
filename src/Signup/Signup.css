@@ -1,0 +1,23 @@
+.signupinput{
+    width: 90% !important;
+}
+.signuplabel{
+padding-left: 60px;
+white-space: nowrap;
+}
+.signupcard{
+width: 500px;
+height: 500px;
+box-shadow: 5px 5px 5px 5px rgb(231, 104, 104);
+
+}
+
+.signuprow{
+height: 100vh;
+}
+.signupbtn{
+margin-left: 40px;
+}
+.signuptext{
+margin-top: 50px;
+}

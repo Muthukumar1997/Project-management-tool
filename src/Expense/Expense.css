@@ -1,0 +1,23 @@
+.expensecard{
+  width: 600px;
+  height: 500px;
+
+  
+}
+.expensedescriptionlabel{
+ white-space: nowrap;
+}
+.expenseinput{
+ width: 100%;
+}
+
+.rowexpense{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+
+}
+.expensebtn{
+  margin-left: 30%;
+}
+
